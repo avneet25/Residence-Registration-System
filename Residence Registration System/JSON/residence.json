@@ -1,0 +1,170 @@
+{
+  "main": [
+    [
+    {
+      "category": "Bartley Residence",
+      "type": "Residence Halls",
+      "img": "",
+      "desc" : "Bartley Residence is nestled along the McIntyre River and is divided into a series of nine 'Houses' connected by a common hallway.  A lovely park-like setting is situated behind the residence, which is a perfect spot to enjoy the outdoors or to socialize in a nature setting. Each smoke-free, dormitory-style residence House in Bartley has three floors of furnished basic single and single rooms.  All of the Houses are equipped with a furnished TV lounge, study room, male and female washrooms, sports equipment storage and a laundry facility. Additionally, outdoor bicycle storage shelters are provided. The nine Houses comprising Bartley Residence are co-educational allowing for an approximately equal number of male and female students.",
+        "room_type" : [
+          [
+            {
+            "name": "Basic Single Room",
+            "price":11146,
+            "act_fee":50,
+            "isMeal":1990,
+            "img": [ "https://residencesystem.s3.amazonaws.com/bartley_type1.jpeg"],
+            "desc" : "Single bed (36 x 78 x 6/91cm x 198cm x 15cm)-Desk, desk chair and desk lamp Bookcase-Bulletin board-Closet area with dresser and clothes bar-Waste can-Recycling container-Window with drapes-Small fridge-WiFi internet access"
+            }
+          ],
+          [
+            {
+            "name": "Single Room",
+            "price":12345,
+            "act_fee":50,
+            "isMeal":1990,
+            "img": ["https://residencesystem.s3.amazonaws.com/Bartely_type2_1.jpeg", "https://residencesystem.s3.amazonaws.com/bartley_type2_2.jpeg"],
+            "desc" : "Single bed (36 x 78 x 6/91cm x 198cm x 15cm)-Desk, desk chair and desk lamp-Shelves-Bulletin board-Closet area with clothes bar-Dresser-Waste can-Recycling container-Window with drapes-Small fridge-WiFi internet access"
+            }
+          ]
+        
+        ]
+      
+      
+    }
+  ],
+  [
+    {
+      "category": "Halliday Hall",
+      "type": "Residence Halls",
+      "img": "",
+      "desc" : "Located in the Avila Centre, Halliday Hall Residence is a smoke-free, dormitory-style residence hall. The Residence is situated in a retreat-like setting right on campus. Halliday Hall Residence is comprised of furnished single rooms. The Residence is equipped with a TV lounge, bicycle storage area, sports equipment storage and laundry facility. The Halliday Hall dormitory units have been assigned for upper year students only and are co-educational for the 2020-2021 academic year.",
+        "room_type" : [
+          [
+            {
+            "name": "Single Room with Sink",
+            "price":12345,
+            "act_fee":50,
+            "isMeal":1990,
+            "img": ["https://residencesystem.s3.amazonaws.com/halliday_type1.jpeg"],
+            "desc" : "Single bed (36 x 78 x 6/91cm x 198cm x 15cm)-Desk, desk chair and desk lamp-2 bulletin boards-Shelves-Wardrobe-Sink with vanity-Small fridge-Waste can-Recycling container-Window with drapes-Night table and lamp-WiFi internet access"
+            }
+          ],
+          [
+            {
+            "name": "Single Room without Sink",
+            "price":11146,
+            "act_fee":50,
+            "isMeal":1990,
+            "img": ["https://residencesystem.s3.amazonaws.com/halliday_type2.jpeg"],
+            "desc" : "Single bed (36 x 78 x 6/91cm x 198cm x 15cm)-Desk, and desk chair-Shelves-Bulletin board-Wardrobe-Night table and lamp-Small fridge-Lounge chair-Waste can-Recycling container-Window with drapes-WiFi internet access"
+            }
+          ]
+        
+        ]
+      
+    }
+  ],
+  [
+    {
+      "category": "Prettie Residence",
+      "type": "Residence Halls",
+      "img": "",
+      "desc" : "Prettie Residence is a smoke-free, dormitory-style residence hall that is divided into two 'houses'. Situated beside Lake Tamblyn, Prettie offers a wonderful view of the lake and its wildlife. The building consists of furnished single rooms and is equipped with a TV lounge, study room, washrooms, sports equipment storage and laundry facilities. Additionally, outdoor bicycle storage shelters are provided. Prettie Residence is an all female dormitory for the 2021-2022 academic year. ",
+        "room_type" : [
+          [
+            {
+            "name": "Single Room",
+            "price":11146,
+            "act_fee":50,
+            "isMeal":1990,
+            "img": ["https://residencesystem.s3.amazonaws.com/prettie-type1.jpeg"],
+            "desc" : "Single bed (36 x 78 x 6/91cm x 198cm x 15cm) -Desk, desk chair and desk lamp-2 closet areas with clothes bars-Bulletin board-Book shelves-Waste can-Recycling container-Window with drapes-Small fridge-WiFi internet access"
+            }
+          ],
+          [
+            {
+            "name": "Single Room with Sink",
+            "price":12345,
+            "act_fee":50,
+            "isMeal":1990,
+            "img": ["https://residencesystem.s3.amazonaws.com/prettie-type1.jpeg"],
+            "desc" : "Single bed (36 x 78 x 6/91cm x 198cm x 15cm) -Desk, desk chair and desk lamp-Shelves-Closet area with clothes bars-Dresser-Sink with vanity-Waste can-Recycling container-Window with drapes-Small fridge-Wi-Fi internet access"
+            }
+          ]
+        
+        ]
+      
+      
+    }
+    ],
+    [
+    {
+      "category": "Apartment",
+      "type": "",
+      "img": "",
+      "desc" : "Lakehead University has two apartment-style complexes, located at the southern end of campus, between Halliday Hall and Bartley Residence. These apartments house upper-year students with certain units designated as accessible. Each student has their own furnished bedroom with internet access. ",
+        "room_type" : [
+          [
+            {
+            "name": "Standard apartment unit",
+            "price":7521,
+            "act_fee":50,
+            "isMeal":0,
+            "img": ["https://residencesystem.s3.amazonaws.com/Std+Aprt.jpeg","https://residencesystem.s3.amazonaws.com/Aprt1.jpeg"],
+            "desc" : "4 bedrooms-1 two piece washroom (sink and toilet)-1 four-piece washroom (sink, toilet, tub, and shower)-Kitchen (fridge, stove, microwave, sink, and ample cupboard space)-Dining area (a table and four chairs)-Living room (chairs, end tables, curtains, a sofa and a coffee table)-Storage closet (vacuum, mop, bucket, broom, and dustpan)-General closet space (by the entrance)-Cable TV access-Elevator access to building-Utilities included "
+            }
+          ],
+          [
+            {
+            "name": "Barrier Free Apartment Unit",
+            "price":7521,
+            "act_fee":50,
+            "isMeal":0,
+            "img": ["https://residencesystem.s3.amazonaws.com/barrierFreeApt.jpeg","https://residencesystem.s3.amazonaws.com/apt2.jpeg"],
+            "desc" : "S4 bedrooms (with one bedroom accessible)-1 two piece washroom (sink and toilet)-1 four-piece washroom (accessible sink, toilet with assistive rails, and wheel in tub/shower with elevator shower head)-Kitchen (accessible fridge/freezer, upright freezer, oven, counter stove-top element, microwave, counter space, sink, ample cupboard space and low level shelving)-Dining area (a table and four chairs)-Living room (chairs, end tables, curtains, a sofa, and a coffee table)-Storage closet (vacuum, mop, bucket, broom, and dustpan)-Accessible closet space (by the entrance)-Cable TV access-Elevator access to building-Utilities included"
+            }
+          ]
+        
+        ]
+      
+      
+    }
+    ],
+    [
+    {
+      "category": "Townhouses",
+      "type": "",
+      "img": "",
+      "desc" : "Townhouses are four bedroom units that are reserved for upper-year students. Each furnished bedroom comes equipped with internet access. Students share a kitchen, four-piece washroom, living room and dining room. The kitchen is equipped with a full-sized refrigerator, stove and microwave with plenty of cupboard space. A large upright freezer is provided for your convenience. Students bring their own dishes, cutlery, small appliances, pots and pans. The living room contains two sofas, two end tables, two floor lamps, one coffee table, curtains and cable TV access. Students provide their own entertainment equipment if desired. The dining room has a table and four chairs. Students also have access to a storage room within the townhouse and a patio. Each townhouse unit is equipped with a vacuum, mop, bucket, broom, dustpan, and snow shovel. Certain units are designated as accessible. ",
+        "room_type" : [
+          [
+            {
+            "name": "Standard townhouse",
+            "price":7957,
+            "act_fee":25,
+            "isMeal":0,
+            "img": ["https://residencesystem.s3.amazonaws.com/StdTownhouse.jpeg","https://residencesystem.s3.amazonaws.com/Townhouse1.jpeg"],
+            "desc" : "Bedrooms-1 four piece washroom (sink, toilet, tub, and shower)-Kitchen (fridge, stove, small freezer, microwave, sink, and ample cupboard space)-Dining room (a table and four chairs)-Living room (a sofa, chair, curtains, coffee table, and end table)-Storage closet (vacuum, mop, bucket, broom and dustpan)-General closet space (by the entrance)-Television with cable TV access-Utilities included"
+            }
+          ],
+          [
+            {
+            "name": "Accessible townhouse",
+            "price":7957,
+            "act_fee":25,
+            "isMeal":0,
+            "img": ["https://residencesystem.s3.amazonaws.com/AccessibleTownhouse.jpeg","https://residencesystem.s3.amazonaws.com/Townhouse2.jpeg"],
+            "desc" : "3 or 4 bedrooms (with one bedroom accessible)-1 four piece wheelchair accessible washroom (accessible sink, toilet with assistive rails, and wheel in tub/shower with elevator shower head)-Kitchen (accessible fridge/freezer, oven, counter stove-top element, uprght freezer, microwave, counter space, sink, ample cupboard space, and low level shelving)-Dining area (a table and four chairs)-Living room (a sofa, chair, curtains, coffee table, and end table)-Storage closet (vacuum, mop, bucket, broom, and dustpan)-Accessible closet space (by the entrance) -Television with cable TV access-Utilities included"
+            }
+          ]
+        
+        ]
+      
+      
+    }
+    ]
+  ]
+  }
+
+

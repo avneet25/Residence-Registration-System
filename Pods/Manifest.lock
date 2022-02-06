@@ -1,0 +1,34 @@
+PODS:
+  - CardScan (2.1.2)
+  - M13Checkbox (3.4.0)
+  - MTSlideToOpen (1.5.1)
+  - SDWebImage (5.11.1):
+    - SDWebImage/Core (= 5.11.1)
+  - SDWebImage/Core (5.11.1)
+  - SkyFloatingLabelTextField (4.0.0)
+
+DEPENDENCIES:
+  - CardScan
+  - M13Checkbox
+  - MTSlideToOpen
+  - SDWebImage
+  - SkyFloatingLabelTextField
+
+SPEC REPOS:
+  trunk:
+    - CardScan
+    - M13Checkbox
+    - MTSlideToOpen
+    - SDWebImage
+    - SkyFloatingLabelTextField
+
+SPEC CHECKSUMS:
+  CardScan: 8f06a55469d758f5ea1c8d79d25a668cab47ab1f
+  M13Checkbox: 6f59404540ac98ba83a3d1afac335895a40c6a5d
+  MTSlideToOpen: dedc9abf1e377fef40544b84e5590d4981055030
+  SDWebImage: a7f831e1a65eb5e285e3fb046a23fcfbf08e696d
+  SkyFloatingLabelTextField: 79ddc40e4ad59707fedbb48d605417aee48bb78a
+
+PODFILE CHECKSUM: d6b75487c989f8635efbfb4265085252e1a90ec8
+
+COCOAPODS: 1.10.2

@@ -1,0 +1,6 @@
+${PODS_ROOT}/Target Support Files/Pods-Residence Registration System/Pods-Residence Registration System-frameworks.sh
+${BUILT_PRODUCTS_DIR}/M13Checkbox/M13Checkbox.framework
+${BUILT_PRODUCTS_DIR}/MTSlideToOpen/MTSlideToOpen.framework
+${BUILT_PRODUCTS_DIR}/SDWebImage/SDWebImage.framework
+${BUILT_PRODUCTS_DIR}/SkyFloatingLabelTextField/SkyFloatingLabelTextField.framework
+${PODS_XCFRAMEWORKS_BUILD_DIR}/CardScan/CardScan.framework/CardScan
