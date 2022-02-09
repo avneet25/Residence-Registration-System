@@ -1,7 +1,7 @@
 # Residence-Registration-System-Prototype
 (Software Engineering Group Project)
 
-Members: Avneet kaur,
+Members: Avneet Kaur,
 Bhavninder Virk,
 Kriti Chawla
 
