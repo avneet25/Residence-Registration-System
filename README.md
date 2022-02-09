@@ -1,6 +1,10 @@
 # Residence-Registration-System-Prototype
 (Software Engineering Group Project)
 
+Members: Avneet kaur
+Bhavninder Virk
+Kriti Chawla
+
 As Lakehead University does not have a mobile application for most of its core services 
 such as admissions, student housing, fee payments etc, we decided to build a prototype for student housing on the mobile platform. The application provides dorm information, pricing, meal plan and a payment screen. All the information was sourced form the official University website. 
 
