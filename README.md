@@ -2,7 +2,7 @@
 (Software Engineering Group Project)
 
 As Lakehead University does not have a mobile application for most of its core services 
-such as admissions, student housing, fee payments etc, we decided to build a prototype for student housing on the mobile platform. The application provides dorm information, pricing, meal plan and a payment screen. All the information was sourced form the official University website.
+such as admissions, student housing, fee payments etc, we decided to build a prototype for student housing on the mobile platform. The application provides dorm information, pricing, meal plan and a payment screen. All the information was sourced form the official University website. 
 
 # 🚩 Table of contents
 1. [App Screenshots](#part1)
@@ -21,7 +21,7 @@ such as admissions, student housing, fee payments etc, we decided to build a pro
 * [SDWebImage](https://github.com/SDWebImage/SDWebImage) for displaying article images from url
 * [M13Checkbox](https://github.com/Marxon13/M13Checkbox) for creating customizable chackBoxes
 * [MTSlideToOpen](https://github.com/lemanhtien/MTSlideToOpen) for creating a SlideToPay UI component
-* [CardScan](https://github.com/getbouncer/cardscan-ios) for scanning card
+* [CardScan](https://github.com/getbouncer/cardscan-ios) for scanning card. Payment processing not implemented, simply incorporated a "scan card" feature.
 
 ___
 
