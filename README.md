@@ -17,18 +17,15 @@ such as admissions, student housing, fee payments etc, we decided to build a pro
 
 ## Features and Libraries used <a name="part2"></a>
 
-* Used [mediastack API](https://mediastack.com) (Free, Simple REST API for Live News & Blog Articles).
-* It offers extensive options in various categories. For NewsApp I have provided 13 Languages (single select), 52 countries (select upto three) and 6 categories with "general" set as the default (multiselect).
-* Searchbar option provided for finding language/country of choice
-* [Flagkit](https://github.com/madebybowtie/FlagKit) used for displaying round flag images
-* [Alamofire](https://github.com/Alamofire/Alamofire) for API response
+* [SkyFloatingLabelTextField](https://github.com/Skyscanner/SkyFloatingLabelTextField) to implement Float Label Pattern
 * [SDWebImage](https://github.com/SDWebImage/SDWebImage) for displaying article images from url
+* [M13Checkbox](https://github.com/Marxon13/M13Checkbox) for creating customizable chackBoxes
+* [MTSlideToOpen](https://github.com/lemanhtien/MTSlideToOpen) for creating a SlideToPay UI component
+* [CardScan](https://github.com/getbouncer/cardscan-ios) for scanning card
 
 ___
 
 ## What I have Learnt <a name="part3"></a>
 
-* (array_name).filter [$0]
-* Data in JSON (Dictionaries and arrays)
-* Search bar delegates
-* override func prepare(for segue: ...) to pass data between screens
+* Essentially, building an application from scratch.
+* The R&D process
