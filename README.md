@@ -1,5 +1,5 @@
 # Residence-Registration-System-Prototype
-(Software Engineering Group Project)
+
 
 
 As Lakehead University does not have a mobile application for most of its core services 
