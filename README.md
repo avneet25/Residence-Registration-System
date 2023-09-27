@@ -17,6 +17,5 @@ such as admissions, student housing, fee payments etc, we decided to build a pro
 ___
 
 ## What I have Learnt <a name="part2"></a>
-
 * Agile software development
 * The R&D process
