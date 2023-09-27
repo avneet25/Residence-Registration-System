@@ -19,5 +19,4 @@ ___
 ## What I have Learnt <a name="part2"></a>
 
 * Agile software development
-* Essentially, building an application from scratch.
 * The R&D process
